@@ -1,6 +1,6 @@
 # IBM Data Science Specialization
 
-The repository is dedicated to certificate achieved along the 5 courses in Data Science Specialization offered by IBM throught Coursera.
+The repository is dedicated to certificate achieved along the 5 courses in Data Science Specialization offered by IBM through Coursera.
 
 
 ## SQL for Data Science with R
