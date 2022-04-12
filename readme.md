@@ -1,6 +1,6 @@
 # IBM Data Science Specialization
 
-The repository is dedicated to certificate achieved along the 5 courses in Data Science Specialization offered by IBM through Coursera.
+The repository is dedicated to certificate achieved along the 8 courses in Data Science Specialization offered by IBM through Coursera.
 
 
 ## SQL for Data Science with R
@@ -82,6 +82,38 @@ The repository is dedicated to certificate achieved along the 5 courses in Data 
     - Spreadsheet
     - Data Analysis
     - Microsoft Excel
+    
+## Data Analysis with R
+### February 24, 2022
+
+#### Content
+- Prepare data for analysis by handling missing values, formatting and normalizing data, binning, and turning categorical values into numeric values.
+- Compare and contrast predictive models using simple linear, multiple linear, and polynomial regression methods.
+- Examine data using descriptive statistics, data grouping, analysis of variance (ANOVA), and correlation statistics.
+- Evaluate a model for overfitting and underfitting conditions and tune its performance using regularization and grid search.
+
+#### Skills
+    - Data Science
+    - Statistical Analysis
+    - R Programming
+    - Data Analysis
+    - Data Visualization (DataViz)
+    
+## Data Visualization with R
+### April 7, 2022
+
+#### Content
+- Create bar charts, histograms, pie charts, scatter plots, line graphs, box plots, and maps using R and related packages. 
+- Design customized charts and plots using annotations, axis titles, text labels, themes, and faceting. 
+- Create maps using the Leaflet package for R. 
+- Create interactive dashboards using the Shiny package for R. 
+
+#### Skills
+- Data Science
+- Data Analysis
+- Data Visualization (DataViz)
+- R Programming
+    
 
 #### Instructor
 **Rav Ahuja**<br>
