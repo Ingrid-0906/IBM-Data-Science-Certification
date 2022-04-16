@@ -1,8 +1,17 @@
-# IBM Data Science Specialization
+# IBM Data Analytics with Excel and R Professional Certificate
 
-The repository is dedicated to certificate achieved along the 8 courses in Data Science Specialization offered by IBM through Coursera.
+### Content
+Into the role of a data analyst or data scientist and develop the essential skills you need work with a range of data sources and apply powerful tools, including Excel, Cognos Analytics, and the R programming language, towards becoming a data driven practitioner, and gaining a competitive edge in the job market.
+<br>
+By the end of this Professional Certificate, you will be able to explain the data analyst and data scientist roles. You will work with Excel spreadsheets and utilize them for data analysis to create charts and plots. You will utilize Cognos Analytics to create interactive dashboards. You will work with relational databases and query data using SQL statements. You will use the R programming language to complete the entire data analysis process - including data preparation, statistical analysis, data visualization, predictive modeling, and creating interactive data applications. You will also communicate your data findings and learn to prepare a report for stakeholders.
+<br>
+This program is suitable for anyone with a passion for learning and does not require any prior data analysis, statistics, or programming experience.<br>
 
+### Applied Learning Project
+Throughout this Professional Certificate, you will complete hands-on labs and projects to help you gain practical experience with Excel, Cognos Analytics, SQL, and the R programing language and related libraries for data science, including Tidyverse, Tidymodels, R Shiny, ggplot2, Leaflet, and rvest.
+<br>
 
+# Modules
 ## SQL for Data Science with R
 ### December 15, 2021
 
